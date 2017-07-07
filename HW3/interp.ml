@@ -1,13 +1,3 @@
-(* Name: Jaekwan Ahn
-
-   UID: 604057669
-
-   Others With Whom I Discussed Things: None
-
-   Other Resources I Consulted: Discussion Slides and Piazza Posts
-   
-*)
-
 (* EXCEPTIONS *)
 
 (* This is a marker for places in the code that you have to fill in.
