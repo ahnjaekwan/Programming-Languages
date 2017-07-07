@@ -1,13 +1,3 @@
-/* Name: Jaekwan Ahn
-
-   UID: 604057669
-
-   Others With Whom I Discussed Things: None
-
-   Other Resources I Consulted: Discussion Slides, Piazza and Lecture Notes
-   
-*/
-
 import java.io.*;
 //headers included
 import java.util.Arrays;
