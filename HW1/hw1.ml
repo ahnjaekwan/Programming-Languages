@@ -1,10 +1,3 @@
-(*	HW1 for CS131
-	Jaekwan Ahn
-	UID: 604057669
-
-	I used lecture and discussion notes while doing this hw.
-*)
-
 (* Problem 1 *)
 
 (*	(a) member x s : checks whether the item is a member of the set s *)
