@@ -1,13 +1,3 @@
-/* Name: Jaekwan Ahn
-
-   UID: 604057669
-
-   Others With Whom I Discussed Things: None
-
-   Other Resources I Consulted: Discussion Slides and Lecture Notes
-   
-*/
-
 // import lists and other data structures from the Java standard library
 import java.util.*;
 
