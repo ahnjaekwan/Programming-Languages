@@ -1,14 +1,3 @@
-/* Name: Jaekwan Ahn
-
-   UID: 604057669
-
-   Others With Whom I Discussed Things: None
-
-   Other Resources I Consulted: Discussion Slides, Piazza and Lecture Notes
-   
-*/
-
-
 /* Problem 1: duplist(X,Y) */
 
 duplist([],[]).
